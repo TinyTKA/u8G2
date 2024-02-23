@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.pde": "c",
+        "u8g2.h": "c",
+        "oled.h": "c",
+        "i2c.h": "c",
+        "main.h": "c"
+    }
+}
